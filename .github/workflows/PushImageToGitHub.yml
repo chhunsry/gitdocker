@@ -20,4 +20,4 @@ jobs:
         with:
           context: DockerFolder/
           push: true
-          tags: chhunsry/gitdockerci:latest
+          tags: auppchhunsry/gitdockerci:latest
